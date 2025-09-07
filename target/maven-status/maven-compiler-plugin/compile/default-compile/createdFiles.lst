@@ -1,0 +1,4 @@
+com/example/apitarefas/model/Tarefa.class
+com/example/apitarefas/repository/TarefaRepository.class
+com/example/apitarefas/controller/TarefaController.class
+com/example/apitarefas/ApiTarefasApplication.class
